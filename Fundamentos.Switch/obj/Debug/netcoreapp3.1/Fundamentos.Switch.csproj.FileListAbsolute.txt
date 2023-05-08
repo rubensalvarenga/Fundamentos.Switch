@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.exe
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.deps.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.runtimeconfig.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.runtimeconfig.dev.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\bin\Debug\netcoreapp3.1\Fundamentos.Switch.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.AssemblyInfo.cs
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.Switch\Fundamentos.Switch\obj\Debug\netcoreapp3.1\Fundamentos.Switch.genruntimeconfig.cache
